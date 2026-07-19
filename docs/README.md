@@ -12,11 +12,11 @@ This documentation provides platform information, creator resources, security gu
 
 Learn about the platform components, operating principles and public technical resources.
 
-### Creators
+### KinkyStars
 
-- [Creator Guide](https://github.com/kinkyfansofficial-ops/kinkyfans-developer-resources/blob/main/docs/creator-guide.md)
+- [KinkyStars Creator Guide](https://github.com/kinkyfansofficial-ops/kinkyfans-developer-resources/blob/main/docs/creator-guide.md)
 
-Guidance for creators covering onboarding, profile development, publishing, account security and audience growth.
+Guidance for KinkyStars creators covering onboarding, profile development, publishing, account security and sustainable audience growth.
 
 ## Repository Resources
 
